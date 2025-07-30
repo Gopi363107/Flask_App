@@ -2,7 +2,7 @@
 This is a machine learning-based web application built with Flask that predicts the likelihood of forest fires based on environmental conditions such as temperature, humidity, wind speed, and rainfall.
 
 🌐 Live Demo
-👉 Click here to try the live app
+👉 Click here : https://forest-fire-prediction-jnk2.onrender.com/
 
 📌 Features
 Built using Flask and Python
